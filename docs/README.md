@@ -1,7 +1,5 @@
 # WIP
 
-https://lab.github.com/githubtraining/continuous-integration-with-circleci
-
 [Google](http://google.com)
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
